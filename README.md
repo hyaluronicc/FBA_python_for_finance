@@ -1,4 +1,4 @@
-# FBA_python_for-_finance
+# FBA_python_for_finance
 
 ### 2020-1학기 
 
